@@ -1,0 +1,2 @@
+x="INSTITUTE OF COMPUTER SCIENCE "
+print(I in x)
